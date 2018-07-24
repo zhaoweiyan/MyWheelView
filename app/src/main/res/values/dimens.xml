@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp50">50dp</dimen>
+    <dimen name="dp10">10dp</dimen>
+    <dimen name="dp65">65dp</dimen>
+    <dimen name="dp15">15dp</dimen>
+    <dimen name="sp15">15sp</dimen>
+    <dimen name="dp1">1dp</dimen>
+    <dimen name="dp14">14dp</dimen>
+    <dimen name="sp16">16sp</dimen>
+    <dimen name="sp20">20sp</dimen>
+    <dimen name="dp74">74dp</dimen>
+</resources>
